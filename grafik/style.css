@@ -1,0 +1,14 @@
+.conteudo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.grafico {
+    width: 800px;
+    height: auto;
+    border: 1px solid #ca1212;
+    border-radius: 25px;
+    margin-top: 1rem;
+    padding: 10px;
+}
