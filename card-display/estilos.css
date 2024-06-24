@@ -23,6 +23,7 @@ body {
 }
 .componente-interno-geral:hover .componente-fundo-imagem:after {
   opacity: 1;
+}
 
 .componente {
   position: absolute;
